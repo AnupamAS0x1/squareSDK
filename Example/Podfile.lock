@@ -1,0 +1,16 @@
+PODS:
+  - squareSDK (0.1.0)
+
+DEPENDENCIES:
+  - squareSDK (from `../`)
+
+EXTERNAL SOURCES:
+  squareSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  squareSDK: c6d3a0f93f8b9ed116f23e1279d43c4c139672f9
+
+PODFILE CHECKSUM: aae41252f8b2dec1f6397ec184412c9c9c66737f
+
+COCOAPODS: 1.12.1

@@ -1,0 +1,6 @@
+framework module squareSDK {
+  umbrella header "squareSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
